@@ -1,0 +1,1 @@
+firstly we should run server.js in terminal, with using node --watch server.js, then we go to postman and try POST, GET, PUT, DELETE, etc, admin username is Jack, and password is "superlongpassword", and about endpoints: we use POST to add something or DELETE to delete something or GET to get an information
