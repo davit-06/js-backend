@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "price": 799,
+    "category": "phones",
+    "stock": 8
+  },
+  {
+    "id": 2,
+    "name": "iPhone 18 Pro",
+    "price": 1999,
+    "category": "phones",
+    "stock": 50
+  }
+]
